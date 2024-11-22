@@ -1,3 +1,3 @@
 document.getElementById('downloadResume').addEventListener('click', function () {
-    window.location.href = 'resume.pdf';
+    window.location.href = 'Resume.pdf';
   });
